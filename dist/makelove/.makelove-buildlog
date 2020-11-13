@@ -1,0 +1,57 @@
+[
+    {
+        "version": "0.1",
+        "build_time": "Fri, 13 Nov 2020 10:17:57 +0100",
+        "targets": [
+            "win32",
+            "win64",
+            "appimage",
+            "macos"
+        ],
+        "completed": false
+    },
+    {
+        "version": "0.1",
+        "build_time": "Fri, 13 Nov 2020 10:22:22 +0100",
+        "targets": [
+            "win32",
+            "win64",
+            "appimage",
+            "macos"
+        ],
+        "completed": false
+    },
+    {
+        "version": "0.2",
+        "build_time": "Fri, 13 Nov 2020 10:52:40 +0100",
+        "targets": [
+            "win32",
+            "win64",
+            "appimage",
+            "macos"
+        ],
+        "completed": false
+    },
+    {
+        "version": "0.1",
+        "build_time": "Fri, 13 Nov 2020 10:54:56 +0100",
+        "targets": [
+            "win32",
+            "win64",
+            "appimage",
+            "macos"
+        ],
+        "completed": false
+    },
+    {
+        "version": "0.1",
+        "build_time": "Fri, 13 Nov 2020 10:57:09 +0100",
+        "targets": [
+            "win32",
+            "win64",
+            "appimage",
+            "macos"
+        ],
+        "completed": true
+    }
+]

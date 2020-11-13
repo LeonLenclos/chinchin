@@ -1,0 +1,12 @@
+name = "Chin Chin"
+default_targets = ["win32", "win64","appimage", "macos"]
+build_directory = "../dist/makelove"
+
+love_files = [
+    "::git-ls-tree::",
+    "-*/.*",
+]
+
+[macos]
+
+love_binaries="/home/leon/.cache/makelove/love-binaries/0.9.1/macos/"
